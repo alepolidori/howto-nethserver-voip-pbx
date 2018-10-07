@@ -1,6 +1,6 @@
 # NethServer VoIP PBX
 
-NethServer VoIP PBX is a complete phone switchboard system based on [Asterisk](https://www.asterisk.org/), [FreePBX](https://www.freepbx.org/) and [NethServer](https://www.nethserver.org/) linux distribution.
+[NethServer VoIP PBX](http://docs.nethserver.org/en/v7/freepbx.html) is a complete phone switchboard system based on [Asterisk](https://www.asterisk.org/), [FreePBX](https://www.freepbx.org/) and [NethServer](https://www.nethserver.org/) linux distribution.
 
 You can easily install one of your own simply running:
 
